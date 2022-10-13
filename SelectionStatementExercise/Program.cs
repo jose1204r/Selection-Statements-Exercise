@@ -34,7 +34,7 @@
             }
             else 
                     {
-                Console.WriteLine("*** Great! Player you got the rigth numner ****");
+                Console.WriteLine("*** Great! Player you got the rigth number ****");
             }
 
             
